@@ -1,23 +1,8 @@
     这是一个简易的在线投票系统，是我在重新复习Django的时候用来练习的。没有用Bootstrap等前端技术，只是一个很很见的HTML拼凑的页面。
+
+
+
     对于初学者来说还是有一定的借鉴意义的。另外从这个软件开始，我开始抛弃sqlite数据库而使用Mysql。这也是一种进步。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 mainsite - User login and register system
 
